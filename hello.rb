@@ -1,1 +1,1 @@
-outs 'Hello!'
+puts 'Hello!'
